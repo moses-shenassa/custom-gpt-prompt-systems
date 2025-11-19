@@ -6,494 +6,420 @@ Below is an example demonstrating how the system prompt and rubric work together
 
 ## Input
 
-> “Devin Haney vs Brian Norman Jr. on 11/22/25”
+> “Analyze + predict Devin Haney x Brian Norman, Jr. In November 2025”
 
 ---
 
 ## Output 
 
-### Matchup Overview
+## Matchup Overview
 
-Devin Haney vs Brian Norman Jr
+**Devin Haney (“The Dream”) vs Brian Norman Jr (“The Assassin II”)**
 
-Date: November 22, 2025
+* **Date:** Saturday, November 22, 2025
+* **Venue:** ANB Arena, Riyadh, Saudi Arabia
+* **Event:** Ring IV – Night of the Champions ([MMA Mania][1])
+* **Weight:** Welterweight (147 lbs), **12 rounds**
+* **Title at stake:** **WBO World Welterweight Title** – Norman defending vs Haney moving up for a third weight class belt. ([Facebook][2])
 
-Location: Riyadh, Saudi Arabia (Ring IV: Night of Champions) 
-DAZN
-+1
+---
 
-Weight: Welterweight, 147 lbs
+## Quick Summary Prediction
 
-Context: Norman defending the WBO welterweight title vs Haney moving up for a belt in a third weight class. 
-MMA Mania
-+2
-Wikipedia
-+2
+I lean **Brian Norman Jr by late TKO (rounds 9–12)** with about **58% confidence**.
+Overall probability split (approx):
 
-Quick Summary Prediction
+* **Norman:** 58% (34% KO/TKO, 24% decision)
+* **Haney:** 36% (30% decision, 6% KO/TKO)
+* **Other (DQ, tech decision, etc.):** 6%
 
-I slightly favor Brian Norman Jr to defeat Devin Haney by late TKO (rounds 9–12) or a close, potentially controversial decision, with about 58% overall confidence in Norman as the winner. The style + size + power dynamics at full welterweight lean toward Norman, but Haney’s craft and judges’ friendliness keep decision scenarios very live.
+Core reasons: Norman is a fully grown, violent welterweight on a destructive run; his best weapons (hooks/uppercuts) line up with Haney’s demonstrated vulnerabilities at higher weights, and 12 hard rounds at 147 make it difficult for Haney to stay completely out of danger.
 
-Fighter A Profile – Devin Haney
+---
 
-Basics & Record
+## Fighter A Profile – Devin Haney
 
-Record: 32–0 (15 KOs), 1 NC 
-BoxRec
-+1
+### Style & Identity
 
-Former undisputed lightweight champion and former WBC 140 champ (win over Regis Prograis). 
-ESPN.com
-+1
+* **Orthodox pure boxer / boxer-puncher**, traditionally built around:
 
-Recent: NC vs Ryan Garcia (knocked down 3x, officially no contest due to Garcia’s failed test) then a dull but clear UD over Jose Ramirez at 140. 
-Wikipedia
+  * Long, structured jab
+  * 1–2s, straight work
+  * Distance control, clinching, and ring generalship
+* Historically comfortable in **slow-tempo, low-output fights** where his control and accuracy edge cards.
 
-Style
+### Record & Resume
 
-Orthodox, pure boxer / boxer-puncher.
+* **Record:** 32–0 (15 KOs), 1 NC ([Best Offshore Sportsbooks][3])
+* Former **undisputed lightweight champion**, former **WBC 140-lb titlist** (Prograis win). ([Talksport][4])
+* Recent key bouts:
 
-Relies on distance control, jab, 1–2s, clinch management, and ring generalship much more than raw power.
+  * Dropped three times and outgunned by Ryan Garcia at 140; result overturned to NC due to Garcia’s PED failure, but the damage was real. ([RingMagazine.com][5])
+  * Returned with a **dull but clear UD over Jose Ramirez** at 144, in one of the lowest-output 12-round fights ever tracked by CompuBox.
 
-Comfortable in slow-tempo, low-volume fights where his jab and positioning win rounds. His recent fights with Garcia and Ramirez rank among historically low-output 12 rounders.
+### Technical Strengths
 
-Key Technical Strengths
+* **Elite jab & lead hand craft** – can vary tempo, range-find, disrupt rhythm, and score.
+* **Distance control:** half-step retreats, use of the full ring, and ability to make opponents fall short.
+* **Clinch/inside survival:** knows how to smother, hold, and reset when under fire (key to surviving vs Garcia).
+* **Ring IQ:** typically follows a disciplined plan, especially when he can keep fights at his preferred range.
 
-Jab & lead hand craft: One of the better jabs in boxing—varied speed, range-finder, disruptor, and scoring tool.
+### Technical Weaknesses
 
-Feet & distance: Good at stepping back half-steps, resetting, and making opponents fall short.
+* **Left-hook vulnerability:** Garcia repeatedly timed and hurt him with the left hook over the jab and during pull-backs.
+* **Pull-back defense & straight-line exits** leave him exposed when an opponent can close distance quickly.
+* **Low offensive variety and power at elite level:** few convincing stoppages vs top opponents; doesn’t reliably deter aggressive punchers. ([Best Offshore Sportsbooks][3])
+* Tendency toward **overly conservative output**, which can leave rounds closer than they need to be.
 
-Clinching and spoil tactics: Knows how to hold, smother, and break rhythm when hurt or pressured (e.g., vs Garcia).
+### Physical Attributes
 
-Defensive awareness (at least historically at 135/140): usually sees shots, rolls or leans back from right hands, and tucks his chin behind the shoulder.
+* Official listing: 5'8"–5'9" with 72" reach. ([Best Offshore Sportsbooks][3])
+* At 135 he was a big frame; at 144 vs Ramirez he looked more “normal” sized, and at **147 he’s no longer a huge man**.
+* **Chin/durability at upper weights now in question:** Garcia rocked and dropped him multiple times; while he recovered admirably, it exposed fragility vs world-class power.
+* Gas tank: solid 12-round engine, but he conserves energy via low volume rather than pushing pace.
 
-Key Technical Weaknesses
+### Psychological / Intangibles
 
-Vulnerability to left hooks / overhand hooks from explosive punchers. Garcia repeatedly hurt and dropped him with the left hook.
+* **Composed and professional:** travels, fights abroad, handles big events (Australia vs Kambosos, Saudi shows). ([danrafael.substack.com][6])
+* Demonstrated **heart and recovery** vs Garcia – didn’t fold after multiple knockdowns.
+* However:
 
-Limited one-punch power at elite level. KO ratio under 50%; virtually no true one-shot finishes vs world level. 
-BoxRec
-+1
+  * His aura of defensive untouchability is gone.
+  * Recent performances suggest a shift toward **risk-averse, safety-first boxing**, possibly limiting his scoring margin if fights get rough.
 
-Sometimes too conservative: Will accept lower output and let rounds be close, trusting judges to value his control.
+### Recent Form & Trend
 
-Physical Attributes
+* From Loma/Prograis to Garcia/Ramirez, the trend is:
 
-Height ~5'9", reach ~71" at 135–140; at 147 he’s still not a huge welter by modern standards. 
-Tapology
-+1
+  * **More adversity vs power**, less willingness/ability to command rounds with activity.
+  * Still technically sharp, but form is **flattening**, not ascending. ([RingMagazine.com][5])
 
-Historically big for 135, but at 147 that size advantage evaporates.
+---
 
-Chin and durability question: Showed great recovery vs Garcia but was badly shaken multiple times. At 147, against naturally bigger punchers, risk goes up.
+## Fighter B Profile – Brian Norman Jr
 
-Gas tank: generally solid 12-round engine but output is low; there’s not a big history of late surges—more “steady cruise.”
+### Style & Identity
 
-Psychological / Intangibles
+* **Orthodox aggressive boxer-puncher / pressure fighter.**
+* Likes to **press forward, work mid-range, and throw hurtful hooks and uppercuts** to head and body.
+* Not a wild brawler; uses some head movement and timing, but defense is secondary to offense. ([Bad Left Hook][7])
 
-Very composed, high ring IQ, trusts his game plan, doesn’t panic easily.
+### Record & Resume
 
-Took the Garcia knockdowns and kept fighting – good heart.
+* **Record:** 28–0 (22 KOs), 2 NC; WBO world welterweight champion. ([Best Offshore Sportsbooks][3])
+* Key wins:
 
-However, the Garcia fight publicly punctured his aura of defensive untouchability and raised questions about his risk tolerance if things get rough again.
+  * KO10 **Giovani Santillan** to win interim/WBO strap (Santillan was fresh off demolishing Alexis Rocha). ([Talksport][4])
+  * TKO3 **Derrieck Cuevas** in first defense after rough first round. ([Bad Left Hook][7])
+  * KO5 **Jin Sasaki** in Tokyo in second defense – brutal finishing shot.
 
-Recent Form & Opposition
+### Technical Strengths
 
-Wins over Loma, Kambosos x2, Prograis, Ramirez – absolutely elite resume. 
-Wikipedia
+* **Serious power in both hands:** can hurt and finish durable guys; KO rate near 80% and rising vs better opposition. ([Best Offshore Sportsbooks][3])
+* **Explosive mid-range combinations:** especially left hooks (upstairs and downstairs) and right-hand follow-ups. Cuevas and Sasaki both got blown out once he found timing. ([Bad Left Hook][7])
+* **Finisher instincts:** when he rocks someone, he escalates intelligently—doesn’t just flail.
+* Shows ability to **adjust after bad starts** (e.g., weathered Cuevas’s hot first round, then took over). ([Bad Left Hook][7])
 
-But last two high-profile outings (Garcia, Ramirez) were either ugly or worrying:
+### Technical Weaknesses
 
-Garcia: outgunned, repeatedly hurt.
+* **Defense is hittable:** can be stiff early, upright, taking shots while collecting data. ([Bad Left Hook][7])
+* Can square up when going for the kill, leaving counters available for a sharp straight puncher.
+* Range management vs classy movers is still relatively untested; Bocachica NC and early Santillan rounds showed some issues timing tricky opponents. ([Facebook][2])
 
-Ramirez: won but looked flat, output extremely low.
+### Physical Attributes
 
-Fighter B Profile – Brian Norman Jr
+* Listed at **5'8", 72" reach**, orthodox—nearly identical dimensions to Haney but naturally thicker at 147. ([RingMagazine.com][8])
+* **True welterweight frame:** rehydrates solid, looks physically comfortable doing 147 and going abroad (Tokyo defense).
+* Has taken big shots (Cuevas, others) and remained upright; **durability looks strong so far**.
 
-Basics & Record
+### Psychological / Intangibles
 
-Record: 28–0 (22 KOs), 2 NC; career KO rate ~79%. 
-BoxRec
-+2
-Wikipedia
-+2
+* **Youth + hunger:** 24, already a world champion, talking about unifications and greatness. ([Bad Left Hook][7])
+* Carries a **mean, assertive mentality**—publicly predicts KOs, then fights like he believes it. ([Facebook][9])
+* Shows composure under early adversity: not rattled by rough first rounds, makes adjustments and comes back harder. ([Bad Left Hook][7])
 
-Current WBO welterweight champion, with stoppage wins over Giovani Santillan (KO10), Derrieck Cuevas (TKO3), Jin Sasaki (KO5). 
-Wikipedia
+### Recent Form & Trend
 
-Style
+* Three-fight run: Santillan KO10 → Cuevas TKO3 → Sasaki KO5. ([Bad Left Hook][7])
+* Trend line is **clear upward momentum**: sharper timing, cleaner finishes, increasing confidence at world level.
 
-Aggressive boxer-puncher / pressure fighter.
+---
 
-Likes to close distance, sit mid-range, and trade heavy shots, especially hooks and uppercuts.
+## Dimensional Comparison
 
-Comfortable walking opponents down, but not a pure brawler—does use some head movement and positioning.
+### 5.1 Technical & Tactical
 
-Key Technical Strengths
+* **Offense**
 
-Explosive power in both hands. Santillan (an undefeated, volume southpaw) and Cuevas both got badly hurt and stopped; Sasaki was iced brutally. 
-Wikipedia
+  * Haney: Structured, efficient, but conservative—jab/1–2, occasional body work. Outboxes, rarely overwhelms.
+  * Norman: Creative, explosive, heavy-handed; varies targets and punches, strong finishing sequences.
+    **Edge (Offense): Norman.**
 
-Finisher instincts: When he hurts you he pounces and closes with combinations.
+* **Defense**
 
-Good at timing counters on the jab (see Cuevas KO—left hook over the jab).
+  * Haney: Historically slick from 135–140, but Garcia exposed significant flaws (pull-backs, left hook vulnerability). Still more defensively oriented than Norman.
+  * Norman: Aggressive, willing to take to give, not a specialist defender.
+    **Edge (Defense): Haney – but gap is narrowed at 147 vs elite power.**
 
-Offense is varied: body shots, uppercuts, hooks up and down.
+* **Ring IQ**
 
-Key Technical Weaknesses
+  * Haney: Proven planner and adjuster against various styles (Loma, Kambosos, Prograis). ([danrafael.substack.com][6])
+  * Norman: Demonstrated in-fight adjustment vs Cuevas but hasn’t yet had a 12-round chess match at this IQ level. ([Bad Left Hook][7])
+    **Edge (Ring IQ): Haney.**
 
-Defense can be leaky. He can be tense early, square, and hittable at mid-range (Bocachica and Cuevas landed big shots). 
-Wikipedia
+### 5.2 Physical Attributes
 
-Footwork is more purposeful than slick; not a “ghost” with his feet—he wins with pressure and reactions, not pure evasiveness.
+* **Size & Natural Weight**
 
-Occasional issues with range management vs movers/boxers (notably in the Bocachica no contest, where he struggled timing a rangier opponent early). 
-Wikipedia
+  * Haney: No longer the big man; at 147 he’s simply “right-sized.”
+  * Norman: Grew into 147, carries more natural bulk and strength at the weight. ([Bad Left Hook][7])
+    **Edge: Norman.**
 
-Physical Attributes
+* **Power**
 
-Height 5'8", reach 72", orthodox. 
-Wikipedia
-+1
+  * Haney: ~47% KO rate; no recent elite stoppages; didn’t dent Garcia or Ramirez. ([Best Offshore Sportsbooks][3])
+  * Norman: 22 KOs in 28 wins; KO’ing durable contenders at full welter. ([Best Offshore Sportsbooks][3])
+    **Edge: Clearly Norman.**
 
-True, fully filled-out welterweight at 24–25 years old.
+* **Speed & Reflexes**
 
-Hits very hard for 147; young, explosive legs and torso; fights comfortably at the pace of modern 147-lb wars.
+  * Haney: Probably a touch faster with the lead hand and feet in open space.
+  * Norman: Quick, explosive from the legs; might have the sharper acceleration in exchanges.
+    **Edge (overall speed): Slight Haney.**
 
-Durability: has been buzzed but never stopped; has recovered and come back to hurt his man.
+* **Durability & Gas Tank**
 
-Psychological / Intangibles
+  * Haney: Good engine but has shown vulnerability upstairs vs elite power; clinching and holding can tax stamina under larger men leaning on him.
+  * Norman: Took big shots from Cuevas early and finished stronger; no signs of fading in late rounds so far. ([Bad Left Hook][7])
+    **Durability Edge:** Norman.
+    **Stamina:** Call it **roughly even**, but Norman spends his tank more aggressively.
 
-Mean streak and “dog” factor: carries himself like a destroyer; talks KO and then goes hunting.
+### 5.3 Psychological & Intangibles
 
-Young champion still looking to prove himself—hungry, not yet jaded.
+* Haney:
 
-Potential downside: still somewhat untested in deep, 12-round tactical chess vs top-tier IQ boxers.
+  * Big-event composure, experience with hostile environments. ([danrafael.substack.com][6])
+  * But his confidence has clearly been tested by the Garcia debacle and criticism of his recent style. ([RingMagazine.com][5])
 
-Recent Form & Opposition
+* Norman:
 
-Stopped Santillan (who had just crushed Alexis Rocha) in 10, then Cuevas in 3, then Sasaki in 5–a string of escalating, explosive title-level performances. 
-Wikipedia
+  * Young, fearless, speaking openly about KOs and legacy. ([Bad Left Hook][7])
+  * No evidence yet of mental collapse under pressure; still early in career at this level.
 
-All at full welterweight, against legit top 15-ish guys.
+**Net:**
 
-Resume is thinner than Haney’s overall, but more relevant at 147.
+* **Big-stage composure / experience:** Haney.
+* **Aggression / killer instinct / “dog”:** Norman.
 
-Dimensional Comparison
-5.1 Technical & Tactical
+In this **boxer vs puncher at higher weight** scenario, Norman’s qualities may matter more once the fight gets physical.
 
-Offense:
+### 5.4 Style Matchup
 
-Haney: Clean textbook jab, 1–2s, occasional right hands and body work. Not a creative punch artist but very structured.
+* Haney: **Range boxer** who wants to paint with the jab, slow the tempo, and clinch when in danger.
+* Norman: **Pressure boxer-puncher** who wants mid-range violence—hooks and uppercuts after backing Haney up.
 
-Norman: More explosive and layered offensively—hooks, uppercuts, body/head mixing, higher damage per landed shot.
-Edge (Offense): Norman.
+Key interaction:
 
-Defense:
+* Norman’s best punches (left hook, right uppercut) match Haney’s known issues (pull-back, high guard gaps, susceptibility to hooks).
+* Haney’s best tools (jab, movement, clinch) are exactly the ones that can **delay** Norman’s success—but may not fully neutralize him at 147.
 
-Haney at 135/140: high-level defender. But Garcia exposed his tendency to pull back in straight lines and his left-hook blind spot.
+**Edge (stylistic interaction at this weight): Slight Norman.**
 
-Norman: More pressure-oriented, takes shots to give shots; more defensive gaps.
-Edge (Defense): Slightly Haney, but the gap is smaller at 147 vs this level of puncher.
+### 5.5 Opposition, Resume & Form
 
-Ring IQ & Adjustments:
+* **Overall career resume:** Heavy edge to Haney (Loma, Kambosos x2, Prograis, Ramirez, Garcia). ([danrafael.substack.com][6])
+* **Current weight class relevance:**
 
-Haney: Has shown the ability to make mid-fight adjustments (vs Kambosos, Loma, Prograis) and follow a disciplined game plan.
+  * Haney: one fight at 144 vs a faded Ramirez in a very low-action bout.
+  * Norman: three meaningful fights at full welter vs solid opposition, KO’ing them. ([Bad Left Hook][7])
 
-Norman: Still emerging here; good instincts, but we haven’t seen him in prolonged tactical adversity at this level.
-Edge (Ring IQ): Haney.
+**Edge (relevant, recent form at 147): Norman.**
 
-5.2 Physical Attributes
+### 5.6 Quantitative & Historical
 
-Size / Frame at 147:
+* Betting markets: Norman is a **slight favorite** (around –125 to –135), Haney a small dog. ([Best Offshore Sportsbooks][3])
+* CompuBox trends: Haney’s last two major fights (Garcia, Ramirez) have been among the **lowest-output 12-round fights on record**, indicating his current mode is safety-first, low-volume.
+* Norman’s KO trajectory at 147 suggests a **high inside-the-distance probability** when he can bring the fight into his range.
 
-Haney: No longer huge; arguably average-sized welter.
+Analog fights (not perfect, but illustrative):
 
-Norman: Natural welter, strong, explosive; looks physically more at home at 147. 
-Wikipedia
+* **Khan vs Canelo** – highly skilled, smaller man moving up vs naturally bigger puncher.
+* **Brook vs Spence** – elite technician whose physicality didn’t scale vs a young, aggressive, naturally larger fighter.
 
-Edge (Size at 147): Norman.
+Haney is *more defensively disciplined* than Khan and more cautious than Brook, but the structural risk is similar: can elite skills + clinching offset a power/size gap for 36 minutes?
 
-Strength & Power:
+### 5.7 Contextual Factors
 
-Haney: Respectable, but not a notable puncher even at 135/140.
+* **Location:** Riyadh – neutral nation, A-side politics driven by event narrative. Saudi shows have tended to favor star fighters and dominant moments rather than subtle control. ([MMA Mania][1])
 
-Norman: Legit banger at 147 with high KO ratio and multiple high-level stoppages. 
-BoxRec
-+1
+* **A-side dynamics:**
 
-Edge (Power): Clearly Norman.
+  * Haney is the bigger global name.
+  * Norman is the defending titlist, Top Rank’s young champion.
+    This could make scorecards in a close, low-damage fight unpredictable but tilt slightly toward the more “in control” look (often Haney).
 
-Speed & Reflexes:
+* **Camp narrative:**
 
-Haney: Slight edge in hand/foot speed, especially in first half; sharp lead hand.
+  * Haney insists 147 will be his best weight and claims he’ll feel stronger, not drained. ([RingMagazine.com][5])
+  * Norman is used to the division and had successful camps for Santillan/Cuevas/Sasaki; no major disruptions reported. ([Bad Left Hook][7])
 
-Norman: Quick enough, explosive from the legs when he jumps in; might have faster “explosion” even if not faster overall hands.
-Edge (Speed): Slight Haney.
+---
 
-Durability & Gas Tank:
+## Style & Scenario Analysis
 
-Haney: Good engine but low-output, and his chin vs true elite power is now a question.
+### 6.1 Haney’s Best-Case Scenario
 
-Norman: Young, fresh, no history of late fades; has taken shots and remained dangerous.
-Edge (Durability at 147): Norman.
-Gas tank: call it roughly even, but Norman is more willing to spend it.
+**Rounds 1–4**
 
-5.3 Psychological & Intangibles
+* Haney boxes at long range, pumping a quick, sharp jab.
+* He *absolutely refuses* extended exchanges; any close range becomes immediate clinch, spin, reset.
+* Norman spends these rounds a bit tight and over-eager, following rather than cutting the ring; Haney bags bankable early rounds on accuracy and ring generalship.
 
-Haney: Proven he can travel, win on the road, and take hostile atmospheres (Kambosos in Australia). But his aura has been dented, and recent performances have been risk-averse and low-energy. 
-Wikipedia
+**Rounds 5–8**
 
-Norman: Riding a wave of violent wins; massive confidence, perhaps bordering on overconfidence, but so far it’s productive. 
-Wikipedia
+* Haney’s jab continues to score; Norman’s face shows marks and swelling.
+* Haney starts *occasionally* stepping in with short right hands and left hooks *only* when he has Norman’s feet planted.
+* Clinching is effective: Norman’s arms are repeatedly tied up, momentum broken.
+* Crowd boos the lack of action, but judges see a clear edge in clean scoring.
 
-Edge:
+**Rounds 9–12**
 
-Composure / big-stage experience: Haney
+* Norman is still dangerous, but his output drops as frustration mounts.
+* Haney’s discipline holds; he never gets greedy, keeps everything behind the jab and ties up inside.
+* Result: **7–5 or 8–4 UD for Haney**, possibly wider if Norman really can’t cut the ring.
 
-Aggression / “dog” / willingness to risk: Norman
+For this to happen, Haney needs:
 
-Net: push, but in this matchup Norman’s aggression may be more operationally valuable.
+* A rock-solid chin at 147 for the few times he does get clipped.
+* Strong clinch strength to repeatedly stifle a naturally bigger man.
+* Judges who reward subtle control over aggression.
 
-5.4 Style Matchup
+### 6.2 Norman’s Best-Case Scenario
 
-Haney: Technical boxer who likes to control range, slow pace, win rounds cleanly.
+**Rounds 1–4**
 
-Norman: Pressure boxer-puncher with real power, who wants mid-range exchanges and body-head assaults.
+* Norman accepts losing some early rounds but commits to **body work** and **arm shots** whenever he gets close.
+* He times Haney’s jab with the left hook over the top, drawing from patterns Cuevas and Santillan fights exposed. ([Bad Left Hook][7])
+* Haney feels genuine welterweight power in the ribs and arms; his clinches become more desperate and energy-draining.
 
-Historically, elite boxers can neutralize pressure punchers—if they have enough pop to make them think, plus real clinch strength and stamina. Haney’s problem here is the power and size gap at full welter plus his recent difficulty when someone refuses to be dissuaded. Garcia’s success pressuring and timing him with hooks is a red flag given Norman’s own left-hook/uppercut arsenal.
+**Rounds 5–8**
 
-Edge (stylistic interaction at 147): Slight Norman – because his weapons directly target Haney’s vulnerabilities, and Haney’s strengths (jab/distance) may not fully dent Norman’s pressure.
+* Norman starts cutting the ring more effectively, stepping laterally and pressing Haney to the ropes.
+* Exchanges at mid-range become frequent; Norman’s hooks and uppercuts land with increasing success.
+* One or two clear momentum spikes where Haney is rocked, driven to the ropes, or forced into extended survival clinches—echoes of the Garcia fight but vs a heavier puncher.
 
-5.5 Opposition, Resume & Form
+**Rounds 9–12**
 
-Overall Resume: Massive edge to Haney (Loma, Kambosos, Prograis, Ramirez, Garcia). 
-Wikipedia
+* Accumulated body/arm damage and mental wear reduce Haney’s mobility.
+* Norman walks him down consistently now, trapping him with corner cuts.
+* A heavy combination (hook, uppercut, then follow-ups) prompts either a knockdown and follow-up barrage or a referee stoppage with Haney still on his feet.
+* Result: **late TKO for Norman**, or a wide UD if Haney’s chin somehow holds but he’s badly battered.
 
-Resume at 147: All of Norman’s world-level work is at 147; Haney is debuting for a major belt here. 
-Wikipedia
-+1
+### 6.3 Most Likely Fight Texture
 
-Recent Form:
+Most plausible composite:
 
-Haney: NC vs Garcia (but visibly battered), then dull win vs Ramirez with record-low combined output.
+* **Early:** Haney wins **2–3 of the first 4** rounds with jab, movement, and clinching. Norman lands some body shots and a few clean head shots that make Haney cautious.
+* **Middle:** Distance shrinks; clinches become longer and more frequent. Norman finds more body hooks and sneaks in left hooks / right uppercuts. Haney continues to score but starts getting physically out-muscled.
+* **Late:** Haney’s legs and arms are less responsive; Norman’s pressure becomes oppressive. One or two big momentum swings produce either a knockdown or extended punishment stretches that force a stoppage around rounds 9–11.
 
-Norman: KO10 Santillan, TKO3 Cuevas, KO5 Sasaki—crescendoing violence vs credible opponents. 
-Wikipedia
+---
 
-Edge (recent weight-relevant form): Norman.
+## Probability & Outcome Modeling
 
-5.6 Quantitative & Historical Data
+Based on style, power, weight dynamics, form, and judging context:
 
-Haney: 32–0, 1 NC; ~47% KO; tends to win decisions with wide margins but low punch output. 
-BoxRec
+* **Norman by KO/TKO**
 
-Norman: 28–0, 2 NC; KO rate ~79%; average fight length ~3–4 rounds historically but has gone 10 hard rounds and closed strong. 
-BoxRec
-+2
-ProBox TV
-+2
+  * **Rounds 1–4:** 6% (fast start, Haney misjudges power and gets blown out)
+  * **Rounds 5–8:** 12% (mid-fight breakthrough during adjustments)
+  * **Rounds 9–12:** 16% (most likely – attritional breakdown)
+    **Total Norman KO/TKO: 34%**
 
-Analog fights / templates (approximate):
+* **Norman by Decision (UD/MD/SD): 24%**
 
-Boxer moving up vs young puncher at the natural class – e.g.,
+  * Haney survives but is dropped/hurt multiple times; Norman’s aggression and damage win cards despite some Haney rounds.
 
-Khan vs Canelo (size & power gap eventually tell)
+* **Haney by Decision: 30%**
 
-Brook vs Spence (elite boxer weakened at higher class vs hungry natural welter)
+  * Executes a disciplined, ugly jab-and-clinch game, controls range, limits clean damage, and convinces judges he’s in charge—even if fans dislike it.
 
-Spence vs Garcia (Mikey) – though here Spence was the boxer/puncher and Mikey couldn’t dent him.
+* **Haney by KO/TKO: 6%**
 
-Analogy: Haney is closer to Brook/Mikey in this dynamic—elite skill from below being asked to manage a physically more dangerous welter.
+  * Covers freak outcomes: unseen fragility in Norman’s chin, cuts, or a perfectly timed counter catching Norman walking onto a shot he doesn’t see.
 
-5.7 Contextual Factors
+* **Other (draw, tech decision, DQ): 6%**
 
-Location: Riyadh, Saudi Arabia – neutral but big-money card where A-side politics and Saudi star-power narratives matter. Haney is a bigger global name; Norman is the defending champ under Top Rank. Close rounds could be contentious. 
-DAZN
-+2
-MMA Mania
-+2
+  * Head clashes with a pressure fighter + clincher, possible cuts, or freak events.
 
-Judging style: Saudi super-cards have produced some home-cooking and some weird cards, but generally favor the bigger star and the fighter perceived to be “in control.” That could favor Haney’s aesthetic if he’s not getting badly rocked. 
-DAZN
+These add up to 100%. The key axes driving the distribution:
 
-Camp & timing:
+* Big edge to Norman in **power and natural welterweight strength**.
+* Big edge to Haney in **ring IQ and large-fight experience**.
+* Question marks around **Haney’s durability at 147** and his willingness to accept risk to win clearly on the cards.
 
-Haney likely at altitude or in a high-end camp again; question is whether his body fully carries 147 without the sort of draining cut that used to be his hidden advantage. 
-ESPN.com
+---
 
-Norman is in his absolute physical prime and fully acclimated to 147 wars.
+## Final Pick & Justification
 
-Style & Scenario Analysis
-6.1 Haney’s Best-Case Scenario
+### Official Pick
 
-Early Rounds (1–4):
+> **Brian Norman Jr by late TKO (Rounds 9–12)**
+> **Confidence: 58/100**
 
-Haney comes out very disciplined: long jab, pivoting, minimal trading.
+### Main Justifications (Top 4–5 Factors)
 
-He keeps the fight at long range, scoring jabs to head and body, then clinching hard every time Norman gets close.
+1. **True welter vs former 135-lb king.**
+   Haney is no longer the bigger man; at 147 his previous size advantage is gone. Norman is a fully filled-out welter who’s proven he can stop tough contenders at this weight. Over 12 rounds, that physical reality tends to surface. ([Bad Left Hook][7])
 
-Norman is a bit tight and swinging big; Haney banks early rounds on clean jabs and ring control.
+2. **Norman’s weapons map directly onto Haney’s known flaws.**
+   Haney’s biggest nightmare is explosive hooks and uppercuts catching him during pull-backs and clinch entries, exactly the punches Norman throws best. The Garcia fight provided a blueprint for hurting Haney that Norman is physically well-equipped to follow.
 
-Middle Rounds (5–8):
+3. **Recent form trajectories point opposite ways.**
+   Haney’s last two major performances: hurt, dropped, and then dull/low-output. Norman’s last three: violent, confident stoppages vs solid opposition. The *current* direction of travel favors Norman. ([Bad Left Hook][7])
 
-Haney’s jab starts to mark Norman, maybe even swelling an eye.
+4. **12-round geometry favors the puncher at higher weight.**
+   To win, Haney must stay nearly perfect—at range, disciplined, risk-averse—for 36 minutes against a man who only needs 1–2 big windows per fight. The probability that Norman gets those windows rises significantly as fatigue, clinch wear, and accumulated body shots set in.
 
-Norman’s pressure slows slightly as he eats sharp counters stepping in.
+5. **Judging risk even in a Haney-style fight.**
+   Even if Haney executes the jab-and-clinch plan well, the Saudi super-card environment and Norman’s heavier, more visible shots could make close rounds lean toward the aggressive champion—making Haney’s decision path narrower than it appears on paper. ([Tennessean][10])
 
-Haney’s right hand lands off the jab; he sometimes steps in to clinch and walk Norman back.
+---
 
-The fight devolves into a clinch-heavy, low-output chess match where Haney “boringly” edges rounds.
+## Self-Critique & Failure Modes
 
-Late Rounds (9–12):
+### Main Ways This Could Be Wrong
 
-Norman still dangerous but frustrated and behind; he’s swinging, Haney tying up and circling.
+1. **Underestimating Haney’s physicality at 147.**
+   If Haney genuinely *does* feel stronger and more durable at 147 (as he claims), he might clinch and move with far more authority than recent bouts imply, neutering Norman’s inside work and walking him around the ring like a smaller man. ([RingMagazine.com][5])
 
-Judges reward Haney’s control and cleaner scoring; he wins a wide but booed UD, similar to his wins over Kambosos/Prograis, but uglier. 
-Wikipedia
+   * Likely outcome if this holds: **Haney UD 7–5/8–4.**
 
-This scenario requires:
+2. **Overrating Norman’s ability to cut the ring vs a truly elite mover.**
+   Norman hasn’t yet had to track someone as savvy as Haney over 12. If he proves unable to meaningfully trap him—plodding or following instead of cutting—the fight reverts to Haney’s long-range world, making my KO expectations too bullish.
 
-Haney’s chin holding up at 147,
+3. **Judging and optics overwhelmingly favor Haney’s control.**
+   In a bout where neither man is badly hurt and Norman’s pressure is partially blunted, judges may reward Haney’s cleaner jabs and visible ring generalship, even if the crowd feels Norman is “the boss.”
 
-strict discipline with no extended exchanges,
+4. **Norman’s chin/defense are worse than they’ve appeared.**
+   His resume is good, but we haven’t seen him repeatedly tagged by a truly elite straight puncher with high timing IQ over 12. It’s not impossible that Haney finds him with cleaner shots than expected and accumulates damage or forces a corner stoppage due to cuts or swelling—though current data suggests this is unlikely.
 
-and judges prioritizing his control over Norman’s aggression.
+### Early-Round Signals That the Fight is Deviating
 
-6.2 Norman’s Best-Case Scenario
+* **Signals Favoring a Haney Decision Upset to My Pick:**
 
-Early Rounds (1–4):
+  * Haney’s clinches look easy and authoritative; Norman is being physically walked back or repeatedly broken up with minimal effort.
+  * Norman fails to consistently touch the body in the first 4–5 rounds; most exchanges end with him smothered or reset.
+  * Haney looks fresh, relaxed, and unshaken by any of Norman’s early connects.
 
-Norman accepts losing some of the range battle but commits to the body and arms early.
+* **Signals Supporting My Norman-by-TKO Baseline:**
 
-He times Haney’s jab with counters—left hook over the top, right hand to body. (Very plausible given his timing vs Cuevas and Santillan). 
-Wikipedia
+  * By round 3–4, Norman has already landed a couple of **clear body hooks and at least one sharp head hook/uppercut** that visibly get Haney’s attention.
+  * Haney’s clinches start to look more like **survival holds** than tactical resets—excessive holding, warnings from the ref.
+  * Haney’s legs and activity noticeably dip by rounds 5–6 while Norman’s pressure remains steady.
 
-Haney feels the power, clinches more, but every clinch costs energy under the stronger welter.
+If we see the first pattern, live adjustments would push probabilities toward **Haney by decision**. If we see the second, the late TKO forecast becomes even more favored.
 
-Middle Rounds (5–8):
+---
 
-Haney’s legs are a bit less springy; Norman is now cutting the ring more effectively.
-
-Exchanges at mid-range become more frequent; Norman’s hooks and uppercuts start to land clean.
-
-One or two big moments where Haney is visibly hurt or buzzed, similar to the Garcia fight but with a heavier man.
-
-Late Rounds (9–12):
-
-Accumulated damage and body work slow Haney further.
-
-Norman traps him on the ropes, lands a heavy combination (hook/uppercut sequence), forcing a ref stoppage or corner pull-out.
-
-Or, if Haney survives, Norman banks enough big rounds + almost knockdowns to win a clear UD.
-
-6.3 Most Likely Fight Texture
-
-I expect:
-
-Early: Haney edges with jab & movement; Norman looks a little tense, maybe drops a couple of rounds on activity and clean jabs landed.
-
-Middle: Norman’s pressure and body attack start to matter; the distance shortens, and Haney gets touched up more than he’d like—particularly by the left hook and right uppercut.
-
-Late: Fight becomes increasingly physical and attritional. Haney either:
-
-barely hangs on, surviving some hairy moments, or
-
-gets dropped or stopped as the power gap at true welter shows itself.
-
-The most consistent scenario with the data: a tense, competitive first half that tilts heavily Norman’s way in the back six.
-
-Probability & Outcome Modeling
-
-Assigning rough probabilities (must sum ~100%):
-
-Norman by KO/TKO (Rounds 7–12): ~34%
-
-Main scenario: attritional breakdown + late stoppage once Haney’s legs and clinch strength fade under true 147 pressure.
-
-Norman by Decision (clear or competitive): ~24%
-
-If Haney survives but is dropped or repeatedly hurt, Norman’s aggression + power moments win cards 115–112/116–111 type.
-
-Haney by Decision (clear/competitive): ~30%
-
-Haney executes a disciplined jab/clinching masterclass, keeps things slow and ugly, and wins 8–4 or 7–5 on cards that favor ring generalship over aggression.
-
-Haney by KO/TKO: ~6%
-
-Possible if Norman walks into a perfectly timed shot while overcommitting, or if Norman has hidden chin issues. But there’s little data suggesting Haney as a finisher at 147.
-
-Other (DQ, technical decision, freak cut, etc.): ~6%
-
-Head clashes are a minor concern given Norman’s pressure style and past cut-filled fight vs Bocachica, and Haney’s tendency to clinch. 
-Wikipedia
-
-Total Norman win probability: ~58%
-Total Haney win probability: ~36%
-Other: ~6%
-
-Final Pick & Justification
-
-Official Pick:
-
-Brian Norman Jr by late TKO (Rounds 9–12)
-
-Confidence Level: 58/100
-
-Key Drivers:
-
-Natural size & power at 147: Norman is a true welter with a near 80% KO ratio and a run of violent stoppages over credible contenders. Haney, by contrast, has never been a puncher and is now facing men his natural weight can’t bully. 
-BoxRec
-+1
-
-Stylistic exploitation of Haney’s weaknesses: Norman’s best punches—hooks and uppercuts in mid-range—map directly onto the vulnerabilities Garcia exposed: Haney’s high guard + pullback tendencies and difficulties under sustained pressure from a hard puncher.
-
-Trajectories in recent form: Haney’s last outings have been either concerning (Garcia) or flat (Ramirez), with historically low output and no sign of increased power. Norman, on the other hand, is peaking, improving, and closing the show against bigger men at 147. 
-Wikipedia
-
-Fight geometry over 12 rounds: Over a full 12 at welter, it’s hard to imagine Haney completely avoiding mid-range exchanges or never getting pinned to ropes. Each of those scenarios strongly favors Norman’s heavy-handed offense.
-
-Judging hedge: Even if Haney boxes well early, the kind of rounds he likes (low-output, fiddly) may not be rewarded as heavily against a champion walking forward and landing the more eye-catching shots, especially on a Saudi blockbuster card that loves highlight moments.
-
-Self-Critique & Failure Modes
-
-Main ways this prediction could be wrong:
-
-I’m underrating Haney’s physicality at 147.
-
-If Haney actually carries size and clinch strength up very well, he might be able to constantly tie Norman up, walk him back, and replicate a Shakur-esque nullification game. In that case, Norman’s offense gets smothered, and Haney wins a wide, ugly decision.
-
-Norman’s defense and patience are better than tape suggests—but his work-rate drops.
-
-If Norman decides to “prove” he can outbox Haney, he might work behind a low-output approach that lets Haney out-jab him and nick close rounds. Then the power edge matters less, and Haney’s ring IQ and experience take over.
-
-Judges drastically favor Haney’s style.
-
-It’s entirely possible that even in rounds where Norman lands the harder shots, the judges reward Haney’s clean jabs and perceived ring generalship, especially if Haney doesn’t look wobbly. That flips my 24% “Norman decision” chunk toward Haney.
-
-Haney’s team builds a near-perfect spoiler game plan.
-
-If they commit to a game of constant stick–move–hold–reset, with very little pride about aesthetics, Norman may be unable to get enough clean sequences, and the fight just dissolves into a clinch-heavy technical snoozer that Haney edges.
-
-Early-Round “Deviations” to Watch For
-
-In the first 3–4 rounds, I’d watch for:
-
-Haney Dominance Signals (bad for my pick):
-
-Norman consistently stuck at the end of the jab, failing to get inside.
-
-Haney clinching effectively, easily turning Norman, and walking him back without visible strain.
-
-Norman discouraged or showing hesitation after feeling Haney’s jab power.
-
-Norman Dominance Signals (supports my pick):
-
-Norman finding the body early and forcing Haney into frequent, ragged clinches.
-
-Haney already looking uncomfortable, blinking/adjusting after feeling Norman’s power.
-
-One or two clear left hooks or uppercuts landing around rounds 3–4 that visibly move or freeze Haney.
-
-If by round 4 Haney looks calm, clean, and largely untouched, I’d shift my live probabilities much closer to Haney decision as the primary outcome. If by round 4 Haney is having to survive pockets of pressure or is already visibly marked up, the baseline prediction of a late Norman TKO becomes substantially more likely.
-60%.
+That’s the full, rubric-driven breakdown. If you want to zoom to a betting angle next (e.g., moneyline vs props vs live-bet triggers), we can build a separate staking model around this probability distribution.
