@@ -22,11 +22,6 @@ Across the systems, I focus on:
   - Detailed rubric covering technical, physical, psychological, and stylistic factors
   - Example session showing how the model should reason and format outputs
 
-- **Sigilizer**
-  - Phase A: deterministic letter-reduction and number mapping rules
-  - Phase B: structural mapping rules for tracing sigils over planetary kameas
-  - Worked examples from intention phrase → numbers → structural path
-
 - **Operations Assistants**
   - **Retreat Logistics Assistant** — planning framework for multi-day outdoor retreats
   - **Solar Sales Assistant** — pre-quote assistant for residential solar proposals
